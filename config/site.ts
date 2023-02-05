@@ -19,6 +19,15 @@ export const siteConfig: SiteConfig = {
     {
       title: "Home",
       href: "/",
+    },{
+      title: "About",
+      href: "/about",
+    },{
+      title: "Contact",
+      href: "/contact",
+    },{
+      title: "Signin",
+      href: "/sign-in",
     },
   ],
   links: {
